@@ -1,0 +1,16 @@
+{
+  "name": "rd-create-api",
+  "version": "1.0.0",
+  "description": "A CLI tool to clone API repositories.",
+  "main": "index.js",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RajathaDH/rd-create-api.git"
+  },
+  "author": "Rajatha DH",
+  "license": "MIT"
+}
