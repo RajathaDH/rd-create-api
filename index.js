@@ -11,7 +11,7 @@ if (!folderName || !folderName.match(/^[a-z0-9-]+$/i)) {
 
 const REPOS = {
     'basic': 'https://github.com/RajathaDH/Starter-Express-API-Basic.git',
-    'jwt': 'jwt api'
+    'jwt': 'https://github.com/RajathaDH/Starter-Express-API-JWT.git'
 };
 
 const api = process.argv[3];
